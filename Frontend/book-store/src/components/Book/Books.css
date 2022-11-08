@@ -1,0 +1,22 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    
+    
+}
+
+li{
+    padding: 10px;
+    margin: 20px;
+    width: 250px;
+    max-width: 250px;
+    height: 400px;
+    max-height: 400px;
+    list-style: none;
+    
+}
+
